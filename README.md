@@ -1,5 +1,7 @@
 # GameDie
 
+[![.github/workflows/actions.yml](https://github.com/jakewest35/GameDie/actions/workflows/actions.yml/badge.svg)](https://github.com/jakewest35/GameDie/actions/workflows/actions.yml)
+
 This repository provides a class that represents a game die, such as the
 six-sided dice used in traditional dice game. While the die defaults to 
 six sides, the overloaded constructor allows the developer to customize
