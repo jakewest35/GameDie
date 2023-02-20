@@ -1,4 +1,4 @@
-name: Build GameDie
+name: Builds GameDie
 
 on:
   commit:
